@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Calculas**
 
-- 👯 I’m looking to collaborate on **on research projects about Machine Learning or Deep Learning**
+- 👯 I’m looking to collaborate on **research projects about Machine Learning or Deep Learning**
 
 - 👨‍💻 All of my projects are available at [#](#)
 
