@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/umair_ali_11" target="blank"><img src="https://img.shields.io/twitter/follow/umair_ali_11?logo=twitter&style=for-the-badge" alt="umair_ali_11" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning and Calculas**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 👯 I’m looking to collaborate on **research projects about Machine Learning or Deep Learning**
 
