@@ -11,13 +11,11 @@
 
 - 👯 I’m looking to collaborate on **research projects about Machine Learning or Deep Learning**
 
-- 👨‍💻 All of my projects are available at [#](#)
-
 - 📝 I regularly write articles on [https://medium.com/@umairalism](https://medium.com/@umairalism)
 
 - 💬 Ask me about **Python, Tensorflow**
 
-- 📫 How to reach me **mumairali880@gmail.com**
+- 📫 How to reach me **m.umairali8899@gmail.com**
 
 - ⚡ Fun fact **I'm that type of person who spend most of his time in sharpening axe rather than cutting down tree.**
 
