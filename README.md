@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **research projects about Machine Learning or Deep Learning**
 
-- 📝 I run a weekly newsletter on MLOps [https://medium.com/@umairalism](https://insidemlops.substack.com/))
+- 📝 I run a weekly newsletter on MLOps [https://insidemlops.substack.com](https://insidemlops.substack.com/)
 
 - 🌐 You can visit my website to know more detail [Site](https://sites.google.com/view/muhammadumairali/)
 
