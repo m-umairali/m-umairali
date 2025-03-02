@@ -13,7 +13,6 @@
 
 - 📝 I run a weekly newsletter on MLOps [https://insidemlops.substack.com](https://insidemlops.substack.com/)
 
-- 🌐 You can visit my website to know more detail [Site](https://sites.google.com/view/muhammadumairali/)
 
 - 💬 Ask me about **Python, Data Engineering, Machine Learning, NLP, MLOps**
 
